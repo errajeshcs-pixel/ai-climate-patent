@@ -1,8 +1,4 @@
-# ai-climate-patent
-Implementation of AI-powered climate forecasting using Medallion Architecture and ensemble machine learning.
-
-
-# AI-Powered Climate Forecasting using Medallion Architecture
+# 🌍 AI-Powered Climate Forecasting using Medallion Architecture
 
 ### Intelligent Climate Analytics using Apache Spark, Databricks & Ensemble Machine Learning
 
@@ -14,35 +10,41 @@ Implementation of AI-powered climate forecasting using Medallion Architecture an
 
 ---
 
-###  AI-Driven Climate Intelligence through Modern Data Engineering
+## 📖 Overview
 
-</div>
+Climate change is one of today's most significant global challenges. Accurate forecasting requires scalable data engineering, reliable data pipelines, and advanced machine learning models.
 
----
-
-#  Overview
-
-Climate change has become one of the world's most critical challenges. Accurate climate forecasting requires the integration of massive historical datasets, scalable data processing, and advanced machine learning techniques.
-
-This project presents a complete **AI-powered Climate Forecasting Framework** built on the **Medallion Architecture (Bronze–Silver–Gold)** using **Apache Spark**, **Databricks**, **Delta Lake**, and **Ensemble Machine Learning**.
-
-The solution transforms raw climate observations into high-quality analytical datasets and generates reliable climate predictions through scalable data engineering and predictive analytics.
+This project presents an **AI-powered Climate Forecasting Framework** built using **Medallion Architecture (Bronze–Silver–Gold)** on **Apache Spark**, **Databricks**, and **Delta Lake**. The solution transforms raw climate observations into trusted analytical datasets and generates intelligent climate forecasts using ensemble machine learning.
 
 ---
 
-#  Project Objectives
+# ✨ Key Features
 
-- Build a scalable climate data platform
+- Multi-source Climate Data Integration
+- Medallion Architecture (Bronze • Silver • Gold)
+- Apache Spark Distributed Processing
+- Delta Lake Storage
+- Feature Engineering Pipeline
+- Ensemble Machine Learning
+- Time-Series Forecasting
+- Interactive Dashboards
+- Scalable AI Pipeline
+
+---
+
+# 🎯 Project Objectives
+
+- Build a scalable climate analytics platform
 - Implement Medallion Architecture
-- Process large-scale historical climate datasets
-- Perform feature engineering for climate variables
+- Process large-scale climate datasets
+- Engineer predictive climate features
 - Train multiple machine learning models
 - Generate accurate climate forecasts
-- Visualize predictions through interactive dashboards
+- Visualize results using dashboards
 
 ---
 
-#  System Architecture
+# 🏗️ System Architecture
 
 <p align="center">
 
@@ -50,44 +52,56 @@ The solution transforms raw climate observations into high-quality analytical da
 
 </p>
 
-The architecture follows the modern Medallion Architecture approach:
+The solution follows the Medallion Architecture consisting of:
 
-<img width="835" height="558" alt="image" src="https://github.com/user-attachments/assets/30868229-ed01-4ca9-92ab-4a871941761f" />
-<div align="center">
----
-
-# Key Features
-
-✅ Multi-source climate data integration
-
-✅ Medallion Data Architecture
-
-✅ Apache Spark Data Processing
-
-✅ Delta Lake Storage
-
-✅ Feature Engineering
-
-✅ Ensemble Machine Learning
-
-✅ Time-Series Forecasting
-
-✅ Interactive Dashboard
-
-✅ Scalable AI Pipeline
+- Bronze Layer – Raw Climate Data
+- Silver Layer – Cleansed & Standardized Data
+- Gold Layer – Analytics & Machine Learning Ready Data
 
 ---
 
-# Technology Stack
+# ⚙️ Workflow
+
+```text
+Historical Climate Data
+            │
+            ▼
+      Data Ingestion
+            │
+            ▼
+      Bronze Layer
+            │
+            ▼
+      Silver Layer
+            │
+            ▼
+       Gold Layer
+            │
+            ▼
+   Feature Engineering
+            │
+            ▼
+     Model Training
+            │
+            ▼
+ Climate Forecasting
+            │
+            ▼
+ Interactive Dashboard
+```
+
+---
+
+# 🛠 Technology Stack
 
 | Category | Technology |
-|------------|------------|
+|-----------|------------|
 | Programming | Python |
 | Big Data | Apache Spark |
 | Platform | Databricks |
 | Storage | Delta Lake |
 | Machine Learning | Scikit-Learn |
-| Deep Learning | TensorFlow |
+| Deep Learning | TensorFlow / LSTM |
 | Data Analysis | Pandas |
 | Visualization | Power BI |
 | Notebook | Jupyter |
@@ -95,20 +109,73 @@ The architecture follows the modern Medallion Architecture approach:
 
 ---
 
+# 🤖 Machine Learning Models
+
+This project evaluates multiple predictive models:
+
+- Random Forest
+- Gradient Boosting
+- XGBoost
+- Prophet
+- ARIMA
+- LSTM Neural Networks
+- Ensemble Learning
+
+---
+
+# 📊 Project Dashboards
+
+## Dashboard 1 – Global Emissions Dashboard
+
+## Dashboard 2 – National Decoupling Index
+
+<table align="center">
+<tr>
+<td align="center">
+
+### Global Emissions Dashboard
+
+<img src="https://github.com/user-attachments/assets/b86acbbe-49f4-4aa5-b314-cb754005dac5" width="500">
+
+</td>
+
+<td align="center">
+
+### National Decoupling Index
+
+<img src="https://github.com/user-attachments/assets/0a9ab563-d4c3-4003-8206-7f38dc3abeb0" width="500">
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📈 Expected Outputs
+
+- Climate Trend Analysis
+- Greenhouse Gas Forecasting
+- Temperature Prediction
+- Rainfall Forecasting
+- Climate Risk Assessment
+- Interactive Business Dashboard
+
+---
+
 # 📂 Repository Structure
 
-```
+```text
 ai-climate-patent
 │
 ├── architecture/
-│   ├── system_architecture.png
+│   └── system_architecture.png
 │
 ├── data/
 │   └── sample_dataset.csv
 │
 ├── docs/
 │   ├── Installation_Guide.md
-│   ├── Project_Documentation.pdf
+│   └── Project_Documentation.pdf
 │
 ├── images/
 │   └── system_architecture.png
@@ -116,22 +183,22 @@ ai-climate-patent
 ├── notebooks/
 │   ├── Bronze_ETL.ipynb
 │   ├── Silver_ETL.ipynb
-│   ├── Gold_ETL.ipynb
+│   └── Gold_ETL.ipynb
 │
 ├── research/
 │   ├── Research_Paper.pdf
-│   ├── Patent_Abstract.pdf
+│   └── Patent_Abstract.pdf
 │
 ├── results/
 │   ├── Dashboard.png
-│   ├── Forecast.png
+│   └── Forecast.png
 │
 ├── src/
 │   ├── data_ingestion.py
 │   ├── preprocessing.py
 │   ├── feature_engineering.py
 │   ├── forecasting.py
-│   ├── ensemble_learning.py
+│   └── ensemble_learning.py
 │
 ├── requirements.txt
 ├── LICENSE
@@ -140,73 +207,7 @@ ai-climate-patent
 
 ---
 
-#  Workflow
-
-```
-Historical Climate Data
-            │
-            ▼
-Data Ingestion
-            │
-            ▼
-Bronze Layer
-            │
-            ▼
-Silver Layer
-            │
-            ▼
-Gold Layer
-            │
-            ▼
-Feature Engineering
-            │
-            ▼
-Model Training
-            │
-            ▼
-Climate Prediction
-            │
-            ▼
-Interactive Dashboard
-```
-
----
-
-#  Machine Learning Models
-
-This project supports multiple predictive models including:
-
-- Random Forest
-- Gradient Boosting
-- XGBoost
-- LSTM Neural Networks
-- Ensemble Learning
-- Time-Series Forecasting
-
----
-
-#  Expected Outputs
-
-- Climate Trend Analysis
-- Temperature Forecasting
-- Rainfall Prediction
-- Weather Pattern Detection
-- Climate Risk Insights
-- Interactive Business Dashboard
-
----
-
-#  Sample Dashboard
-
-> *(Replace with your dashboard screenshot)*
-
-```
-results/dashboard.png
-```
-
----
-
-#  Installation
+# 🚀 Installation
 
 Clone the repository
 
@@ -226,7 +227,7 @@ Install dependencies
 pip install -r requirements.txt
 ```
 
-Run
+Run the application
 
 ```bash
 python src/data_ingestion.py
@@ -234,9 +235,9 @@ python src/data_ingestion.py
 
 ---
 
-#  Research Contribution
+# 🔬 Research Contribution
 
-This repository demonstrates research in:
+This work contributes to:
 
 - Artificial Intelligence
 - Climate Informatics
@@ -248,7 +249,7 @@ This repository demonstrates research in:
 
 ---
 
-#  Author
+# 👨‍💻 Author
 
 ## Rajesh Kumar Singh
 
@@ -265,45 +266,43 @@ This repository demonstrates research in:
 - Azure
 - Machine Learning
 - Climate Analytics
-- Data Architecture
+- Enterprise Data Architecture
 
 ---
 
-#  Contributing
+# 🤝 Contributing
 
-Contributions are welcome!
-
-If you'd like to improve this project:
+Contributions are welcome.
 
 1. Fork the repository
-2. Create a feature branch
+2. Create a new feature branch
 3. Commit your changes
 4. Submit a Pull Request
 
 ---
 
-#  Support
+# ⭐ Support
 
-If you found this project useful:
+If you found this repository useful:
 
-⭐ Star this repository
+⭐ Star the repository
 
-🍴 Fork it
+🍴 Fork the repository
 
- Share it with the community
+📢 Share it with the community
 
 ---
 
-#  License
+# 📄 License
 
-This project is licensed under the **MIT License**.
+Licensed under the **MIT License**.
 
 ---
 
 <div align="center">
 
-##  Building AI Solutions for a Sustainable Future
+## 🌱 Building AI Solutions for a Sustainable Future
 
-**If you like this project, don't forget to ⭐ Star the repository!**
+**If you found this project useful, please consider giving it a ⭐**
 
 </div>
