@@ -48,7 +48,7 @@ This project presents an **AI-powered Climate Forecasting Framework** built usin
 
 <p align="center">
 
-<img width="532" height="400" alt="image" src="https://github.com/user-attachments/assets/42c54846-1c56-4a75-b33e-7a09856f5da9" />
+<img width="601" height="450" alt="image" src="https://github.com/user-attachments/assets/42c54846-1c56-4a75-b33e-7a09856f5da9" />
 
 
 </p>
