@@ -1,4 +1,4 @@
-# 🌍 AI-Powered Climate Forecasting using Medallion Architecture
+#  AI-Powered Climate Forecasting using Medallion Architecture
 
 ### Intelligent Climate Analytics using Apache Spark, Databricks & Ensemble Machine Learning
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 📖 Overview
+##  Overview
 
 Climate change is one of today's most significant global challenges. Accurate forecasting requires scalable data engineering, reliable data pipelines, and advanced machine learning models.
 
@@ -18,7 +18,7 @@ This project presents an **AI-powered Climate Forecasting Framework** built usin
 
 ---
 
-# ✨ Key Features
+#  Key Features
 
 - Multi-source Climate Data Integration
 - Medallion Architecture (Bronze • Silver • Gold)
@@ -32,7 +32,7 @@ This project presents an **AI-powered Climate Forecasting Framework** built usin
 
 ---
 
-# 🎯 Project Objectives
+#  Project Objectives
 
 - Build a scalable climate analytics platform
 - Implement Medallion Architecture
@@ -44,7 +44,7 @@ This project presents an **AI-powered Climate Forecasting Framework** built usin
 
 ---
 
-# 🏗️ System Architecture
+#  System Architecture
 
 <p align="center">
 
@@ -61,7 +61,7 @@ The solution follows the Medallion Architecture consisting of:
 
 ---
 
-# ⚙️ Workflow
+#  Workflow
 
 ```text
 Historical Climate Data
@@ -93,7 +93,7 @@ Historical Climate Data
 
 ---
 
-# 🛠 Technology Stack
+#  Technology Stack
 
 | Category | Technology |
 |-----------|------------|
@@ -110,7 +110,7 @@ Historical Climate Data
 
 ---
 
-# 🤖 Machine Learning Models
+#  Machine Learning Models
 
 This project evaluates multiple predictive models:
 
@@ -126,7 +126,7 @@ This project evaluates multiple predictive models:
 
 
 
-# 📈 Expected Outputs
+#  Expected Outputs
 
 - Climate Trend Analysis
 - Greenhouse Gas Forecasting
@@ -139,7 +139,7 @@ This project evaluates multiple predictive models:
 
 ---
 
-# 🚀 Installation
+#  Installation
 
 Clone the repository
 
@@ -167,7 +167,7 @@ python src/data_ingestion.py
 
 ---
 
-# 🔬 Research Contribution
+#  Research Contribution
 
 This work contributes to:
 
@@ -181,7 +181,7 @@ This work contributes to:
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 ## Rajesh Kumar Singh
 
@@ -202,7 +202,7 @@ This work contributes to:
 
 ---
 
-# 🤝 Contributing
+#  Contributing
 
 Contributions are welcome.
 
@@ -221,11 +221,11 @@ If you found this repository useful:
 
 🍴 Fork the repository
 
-📢 Share it with the community
+ Share it with the community
 
 ---
 
-# 📄 License
+#  License
 
 Licensed under the **MIT License**.
 
