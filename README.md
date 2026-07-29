@@ -1,9 +1,8 @@
 # ai-climate-patent
 Implementation of AI-powered climate forecasting using Medallion Architecture and ensemble machine learning.
-<img width="835" height="558" alt="image" src="https://github.com/user-attachments/assets/30868229-ed01-4ca9-92ab-4a871941761f" />
-<div align="center">
 
-# 🌍 AI-Powered Climate Forecasting using Medallion Architecture
+
+# AI-Powered Climate Forecasting using Medallion Architecture
 
 ### Intelligent Climate Analytics using Apache Spark, Databricks & Ensemble Machine Learning
 
@@ -15,13 +14,13 @@ Implementation of AI-powered climate forecasting using Medallion Architecture an
 
 ---
 
-### 🚀 AI-Driven Climate Intelligence through Modern Data Engineering
+###  AI-Driven Climate Intelligence through Modern Data Engineering
 
 </div>
 
 ---
 
-# 📖 Overview
+#  Overview
 
 Climate change has become one of the world's most critical challenges. Accurate climate forecasting requires the integration of massive historical datasets, scalable data processing, and advanced machine learning techniques.
 
@@ -31,7 +30,7 @@ The solution transforms raw climate observations into high-quality analytical da
 
 ---
 
-# 🎯 Project Objectives
+#  Project Objectives
 
 - Build a scalable climate data platform
 - Implement Medallion Architecture
@@ -43,7 +42,7 @@ The solution transforms raw climate observations into high-quality analytical da
 
 ---
 
-# 🏗️ System Architecture
+#  System Architecture
 
 <p align="center">
 
@@ -53,34 +52,11 @@ The solution transforms raw climate observations into high-quality analytical da
 
 The architecture follows the modern Medallion Architecture approach:
 
-```
-Climate Data Sources
-          │
-          ▼
-Bronze Layer (Raw Data)
-          │
-          ▼
-Silver Layer (Cleaned Data)
-          │
-          ▼
-Gold Layer (Analytics Ready)
-          │
-          ▼
-Feature Engineering
-          │
-          ▼
-Machine Learning Models
-          │
-          ▼
-Climate Forecasts
-          │
-          ▼
-Interactive Dashboard
-```
-
+<img width="835" height="558" alt="image" src="https://github.com/user-attachments/assets/30868229-ed01-4ca9-92ab-4a871941761f" />
+<div align="center">
 ---
 
-# ✨ Key Features
+# Key Features
 
 ✅ Multi-source climate data integration
 
@@ -102,7 +78,7 @@ Interactive Dashboard
 
 ---
 
-# 🛠 Technology Stack
+# Technology Stack
 
 | Category | Technology |
 |------------|------------|
@@ -164,7 +140,7 @@ ai-climate-patent
 
 ---
 
-# 🔄 Workflow
+#  Workflow
 
 ```
 Historical Climate Data
@@ -196,7 +172,7 @@ Interactive Dashboard
 
 ---
 
-# 🤖 Machine Learning Models
+#  Machine Learning Models
 
 This project supports multiple predictive models including:
 
@@ -209,7 +185,7 @@ This project supports multiple predictive models including:
 
 ---
 
-# 📈 Expected Outputs
+#  Expected Outputs
 
 - Climate Trend Analysis
 - Temperature Forecasting
@@ -220,7 +196,7 @@ This project supports multiple predictive models including:
 
 ---
 
-# 📊 Sample Dashboard
+#  Sample Dashboard
 
 > *(Replace with your dashboard screenshot)*
 
@@ -230,7 +206,7 @@ results/dashboard.png
 
 ---
 
-# 🚀 Installation
+#  Installation
 
 Clone the repository
 
@@ -258,7 +234,7 @@ python src/data_ingestion.py
 
 ---
 
-# 📚 Research Contribution
+#  Research Contribution
 
 This repository demonstrates research in:
 
@@ -272,7 +248,7 @@ This repository demonstrates research in:
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 ## Rajesh Kumar Singh
 
@@ -293,7 +269,7 @@ This repository demonstrates research in:
 
 ---
 
-# 🤝 Contributing
+#  Contributing
 
 Contributions are welcome!
 
@@ -306,7 +282,7 @@ If you'd like to improve this project:
 
 ---
 
-# ⭐ Support
+#  Support
 
 If you found this project useful:
 
@@ -314,11 +290,11 @@ If you found this project useful:
 
 🍴 Fork it
 
-📢 Share it with the community
+ Share it with the community
 
 ---
 
-# 📄 License
+#  License
 
 This project is licensed under the **MIT License**.
 
@@ -326,7 +302,7 @@ This project is licensed under the **MIT License**.
 
 <div align="center">
 
-## 🌍 Building AI Solutions for a Sustainable Future
+##  Building AI Solutions for a Sustainable Future
 
 **If you like this project, don't forget to ⭐ Star the repository!**
 
