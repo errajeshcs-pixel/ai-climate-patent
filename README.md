@@ -48,7 +48,8 @@ This project presents an **AI-powered Climate Forecasting Framework** built usin
 
 <p align="center">
 
-<img src="images/system_architecture.png" width="900">
+<img width="532" height="316" alt="image" src="https://github.com/user-attachments/assets/42c54846-1c56-4a75-b33e-7a09856f5da9" />
+
 
 </p>
 
@@ -123,33 +124,7 @@ This project evaluates multiple predictive models:
 
 ---
 
-# 📊 Project Dashboards
 
-## Dashboard 1 – Global Emissions Dashboard
-
-## Dashboard 2 – National Decoupling Index
-
-<table align="center">
-<tr>
-<td align="center">
-
-### Global Emissions Dashboard
-
-<img src="https://github.com/user-attachments/assets/b86acbbe-49f4-4aa5-b314-cb754005dac5" width="500">
-
-</td>
-
-<td align="center">
-
-### National Decoupling Index
-
-<img src="https://github.com/user-attachments/assets/0a9ab563-d4c3-4003-8206-7f38dc3abeb0" width="500">
-
-</td>
-</tr>
-</table>
-
----
 
 # 📈 Expected Outputs
 
@@ -161,49 +136,6 @@ This project evaluates multiple predictive models:
 - Interactive Business Dashboard
 
 ---
-
-# 📂 Repository Structure
-
-```text
-ai-climate-patent
-│
-├── architecture/
-│   └── system_architecture.png
-│
-├── data/
-│   └── sample_dataset.csv
-│
-├── docs/
-│   ├── Installation_Guide.md
-│   └── Project_Documentation.pdf
-│
-├── images/
-│   └── system_architecture.png
-│
-├── notebooks/
-│   ├── Bronze_ETL.ipynb
-│   ├── Silver_ETL.ipynb
-│   └── Gold_ETL.ipynb
-│
-├── research/
-│   ├── Research_Paper.pdf
-│   └── Patent_Abstract.pdf
-│
-├── results/
-│   ├── Dashboard.png
-│   └── Forecast.png
-│
-├── src/
-│   ├── data_ingestion.py
-│   ├── preprocessing.py
-│   ├── feature_engineering.py
-│   ├── forecasting.py
-│   └── ensemble_learning.py
-│
-├── requirements.txt
-├── LICENSE
-└── README.md
-```
 
 ---
 
